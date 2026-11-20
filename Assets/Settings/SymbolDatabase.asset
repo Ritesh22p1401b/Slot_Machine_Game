@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 610ba9dcb840878428d4dff9ab338e1c, type: 3}
+  m_Name: SymbolDatabase
+  m_EditorClassIdentifier: SlotMachine.Runtime::SlotMachine.Data.SymbolDatabase
+  symbols:
+  - {fileID: 11400000, guid: cca163330e8995245819b5f237df4ab7, type: 2}
+  - {fileID: 11400000, guid: c24fd42a9811499488f5f47d7b594d85, type: 2}
+  - {fileID: 11400000, guid: 5c28b69ca9144754aa22a0f6fc7ac261, type: 2}
+  - {fileID: 11400000, guid: 26728086adcf2514185b388bdb343c8e, type: 2}
